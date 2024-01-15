@@ -1,0 +1,13 @@
+# EE3305/ME3243
+# Name: ENG CHEN XI, AVIEL
+# NUSNET ID: E0725008
+
+Kp_x: 0.55
+Ki_x: 0
+Kd_x: 0
+Kp_a: 2.0
+Ki_a: 0
+Kd_a: 0
+dt: 0.1
+goal_x: 3.5
+goal_y: 7.5
